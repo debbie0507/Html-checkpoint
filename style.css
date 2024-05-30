@@ -1,0 +1,19 @@
+div{
+    height: 50px;
+    width: 10px;
+}
+text-decoration:underline;
+#input_id{
+    border: 2px solid gray;
+    border-radius: 50px;
+}
+h1 {
+    color: brown;
+    font-family: roboto;
+    text-align: center;
+}
+h2 {
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
